@@ -40,6 +40,6 @@ This is a single-file implementation of a Lightweight Django project.
 
 How to Run (Requires django and uvicorn):
 
-uvicorn uDajngo_main:app
+uvicorn uDajngo:app
 
 Access at: http://127.0.0.1:8000/
